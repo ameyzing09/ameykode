@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ameykode/static/css/main.5f361e03.chunk.css",
+    "main.js": "/ameykode/static/js/main.3be80f93.chunk.js",
+    "main.js.map": "/ameykode/static/js/main.3be80f93.chunk.js.map",
+    "runtime-main.js": "/ameykode/static/js/runtime-main.5c2734d3.js",
+    "runtime-main.js.map": "/ameykode/static/js/runtime-main.5c2734d3.js.map",
+    "static/css/2.11829350.chunk.css": "/ameykode/static/css/2.11829350.chunk.css",
+    "static/js/2.05ea350f.chunk.js": "/ameykode/static/js/2.05ea350f.chunk.js",
+    "static/js/2.05ea350f.chunk.js.map": "/ameykode/static/js/2.05ea350f.chunk.js.map",
+    "index.html": "/ameykode/index.html",
+    "precache-manifest.1340d85b67a923a52ddfc4ed59a8fc0d.js": "/ameykode/precache-manifest.1340d85b67a923a52ddfc4ed59a8fc0d.js",
+    "service-worker.js": "/ameykode/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/ameykode/static/css/2.11829350.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/ameykode/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.05ea350f.chunk.js.LICENSE.txt": "/ameykode/static/js/2.05ea350f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5c2734d3.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.05ea350f.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.3be80f93.chunk.js"
+  ]
+}
